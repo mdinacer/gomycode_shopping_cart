@@ -31,7 +31,7 @@ This project is a fully functional shopping cart implemented using JavaScript DO
 Simply download or clone the repository and open `index.html` in your browser.
 
 ```sh
-git clone https://github.com/your-repo/shopping-cart.git
+git clone https://github.com/mdinacer/gomycode_shopping_cart.git
 cd shopping-cart
 open index.html
 ```
